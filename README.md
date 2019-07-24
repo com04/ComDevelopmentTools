@@ -3,7 +3,8 @@
 __BETA版__
 4.22/windowsで動作確認
 
-Statの数値を値で取得したい。的なニーズ
++ Statの数値を値で取得したい。的なニーズ  
++ あと、オートメーションのだとDECLARE_CYCLE_STAT_EXTERN系しか取れないのでそれ以外も取れるように  
 
 ## 使えるノード  
 ![2019-07-24_23h44_03](https://user-images.githubusercontent.com/11537958/61805255-742a2500-ae70-11e9-9b47-d1ea919cd20b.png)
