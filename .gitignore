@@ -71,3 +71,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+
+
+
+SampleProject/CDTSample/Saved/*
+SampleProject/CDTSample/Intermediate/*
+
+
