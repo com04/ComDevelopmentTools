@@ -4,8 +4,8 @@
 4.22/windowsで動作確認
 
 + 開発用のツール郡  
-  + Statの数値を値で取得したい。DECLARE_CYCLE_STAT_EXTERN系以外も取れるように  
-  + インプレイ中にActor/Componentの情報を表示したい。Tick/Collision等の情報確認  
+  + [Stats](#stats): Statの数値を値で取得したい。DECLARE_CYCLE_STAT_EXTERN系以外も取れるように  
+  + [ScreenInfo](#screen-info): インプレイ中にActor/Componentの情報を表示したい。Tick/Collision等の情報確認  
 
 
 ## Stats
